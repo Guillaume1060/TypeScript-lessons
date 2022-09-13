@@ -28,7 +28,7 @@ let nums : number [];
 //     model: 'sandero',
 //     km: 200000,
 // }
-// // car.name = 4 --> erro
+// // car.name = 4 --> error
 
 // let profile : {
 //     name : string,

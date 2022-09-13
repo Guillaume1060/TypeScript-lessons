@@ -40,3 +40,4 @@ class RocketFactory implements Rocket {
 const Falcon1 = new RocketFactory(12,900,2,9000)
 console.log (Falcon1)
  
+

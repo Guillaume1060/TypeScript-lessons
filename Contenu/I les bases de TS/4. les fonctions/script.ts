@@ -2,7 +2,7 @@ function multiply(num1: number,num2 = 10, action?:string) {
     if (action) console.log (action);
     return num1*num2
 }
-console.log (multiply(2,5,'delete   '))
+console.log (multiply(2,5,'delete'))
 // le ? permet de rendre le paramètre faculattif
 
 

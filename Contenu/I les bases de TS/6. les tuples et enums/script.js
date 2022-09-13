@@ -4,6 +4,9 @@ let tuple;
 tuple = [true, 20];
 // tuple.push(4);
 // défaut de pouvoir utiliser la méthode push mais à savoir.
+
+
+
 // Enum (moins utilisé)
 // const Roles = {
 //     JAVASCRIPT: 1,
