@@ -1,0 +1,14 @@
+{
+  "name": "bf2022js-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./out/index.js",
+  "scripts": {
+    "compile:watch": "tsc --watch -p .",
+    "start:watch": "nodemon --watch out/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

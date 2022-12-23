@@ -11,4 +11,4 @@ let randomnNumber;
 const conversion = (celsius) => {
     return (celsius * 9 / 5) + 32;
 };
-console.log(conversion(10));
+console.log(conversion(50));
